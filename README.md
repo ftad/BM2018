@@ -32,10 +32,19 @@ O<sub>накопленная</sub> = О<sub>домашние задания</sub
 При обнаружении плагиата оценки за домашнее задание обнуляются всем задействованным в списывании студентам.
 
 ### Материалы занятий
+__Занятие 1. Байесовские рассуждения__
+* [Видео лекции](https://www.youtube.com/playlist?list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw)
+* [Конспект лекции](https://drive.google.com/file/d/13Q58mRGh5uN8xyhMiTfoOXOYvxUKbvRY/view)
+* [Еще один конспект](http://www.machinelearning.ru/wiki/images/8/8c/Lecture7_2012.pdf)
+* [Задачи семинара](http://www.machinelearning.ru/wiki/images/1/18/S01_bayesian_reasoning_2016.pdf)
+
+__Занятие 2. Сопряженные распределения и принцип наибольшей обоснованности__
+* [Конспект-презентация](http://www.machinelearning.ru/wiki/images/b/bd/BMMO11_5.pdf)
 
 
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
+* [Домашнее задание 2](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf). Дедлайн: 18:00 24.09.18. Сдавать в Anytask!
 
 ### Полезные материалы
 Книги:
