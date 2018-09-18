@@ -40,6 +40,7 @@ __Занятие 1. Байесовские рассуждения__
 
 __Занятие 2. Сопряженные распределения и принцип наибольшей обоснованности__
 * [Конспект-презентация](http://www.machinelearning.ru/wiki/images/b/bd/BMMO11_5.pdf)
+* [Презентация с распределениями](https://github.com/ftad/BM2018/blob/master/materials/distributions.pdf)
 
 
 ### Задания
