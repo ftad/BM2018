@@ -56,7 +56,7 @@ __Занятие 4. Метод релевантных векторов__
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
 * [Домашнее задание 2](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf). Дедлайн: 18:00 24.09.18. Сдавать в Anytask!
 * [Домашнее задание 3](https://github.com/ftad/BM2018/blob/master/homeworks/homework3.pdf). Дедлайн: 18:00 01.10.18. Сдавать в Anytask!
-* [Домашнее задание 4 (пр.)](https://github.com/ftad/BM2018/blob/master/homeworks/homework4.ipynb) Дедлайн: 18:00 08.10.18. Сдавать в Anytask!
+* [Домашнее задание 4 (пр.)](https://github.com/ftad/BM2018/blob/master/homeworks/homework4.ipynb) Дедлайн: 18:00 08.10.18. Сдавать в Anytask! Обратите внимание, что в задании вектор правильных ответов обозначается t, а не y.
 
 ### Полезные материалы
 Книги:
