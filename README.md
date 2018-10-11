@@ -58,6 +58,8 @@ __Занятие 4. Метод релевантных векторов__
 * [Домашнее задание 3](https://github.com/ftad/BM2018/blob/master/homeworks/homework3.pdf). Дедлайн: 18:00 01.10.18. Сдавать в Anytask!
 * [Домашнее задание 4 (пр.)](https://github.com/ftad/BM2018/blob/master/homeworks/homework4.ipynb) Дедлайн: 18:00 08.10.18. Сдавать в Anytask! Обратите внимание, что в задании вектор правильных ответов обозначается t, а не y.
 
+* [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 18.10.18. Сдавать в Anytask!
+
 ### Полезные материалы
 Книги:
 * Barber D. [Bayesian Reasoning and Machine Learning.](http://www0.cs.ucl.ac.uk/staff/d.barber/brml/) Cambridge University Press, 2012.
