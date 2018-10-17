@@ -66,7 +66,7 @@ __Занятие 6. EM-алгоритм. Решение задач__
 * [Домашнее задание 4 (пр.)](https://github.com/ftad/BM2018/blob/master/homeworks/homework4.ipynb) Дедлайн: 18:00 08.10.18. Сдавать в Anytask! Обратите внимание, что в задании вектор правильных ответов обозначается t, а не y.
 
 * [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 29.10.18. Сдавать в Anytask!
-* [Домашнее задание 6.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6.ipynb) [Теория по заданию.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf) [Данные.](https://yadi.sk/d/EUF_qiKRpHo9cw) Дедлайн: 18:00 29.10.2018
+* [Домашнее задание 6.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6.ipynb) [Теория по заданию.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf) [Данные.](https://yadi.sk/d/EUF_qiKRpHo9cw) Дедлайн: 18:00 29.10.2018. Сдавать в Anytask!
 
 ### Полезные материалы
 Книги:
