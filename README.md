@@ -52,13 +52,21 @@ __Занятие 4. Метод релевантных векторов__
 * [Конспект-презентация](http://www.machinelearning.ru/wiki/images/d/d0/BMMO11_7.pdf)
 * [Презентация с экспериментами](http://www.machinelearning.ru/wiki/images/8/8d/BMML15_S06_show.pdf)
 
+__Занятие 5. EM-алгоритм__
+* [Презентация по EM-алгоритму](https://drive.google.com/file/d/1CFGIuArumNz-qjVdCQqlxSpRbgGG3Ij_/view?usp=sharing)
+
+__Занятие 6. EM-алгоритм. Решение задач__
+* [Презентация по задаче с восстановлением фото](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf)
+* [Байесовский метод главных компонент](http://www.machinelearning.ru/wiki/images/7/73/BMMO11_11.pdf)
+
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
 * [Домашнее задание 2](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf). Дедлайн: 18:00 24.09.18. Сдавать в Anytask!
 * [Домашнее задание 3](https://github.com/ftad/BM2018/blob/master/homeworks/homework3.pdf). Дедлайн: 18:00 01.10.18. Сдавать в Anytask!
 * [Домашнее задание 4 (пр.)](https://github.com/ftad/BM2018/blob/master/homeworks/homework4.ipynb) Дедлайн: 18:00 08.10.18. Сдавать в Anytask! Обратите внимание, что в задании вектор правильных ответов обозначается t, а не y.
 
-* [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 18.10.18. Сдавать в Anytask!
+* [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 29.10.18. Сдавать в Anytask!
+* [Домашнее задание 6.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6.ipynb) [Теория по заданию.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf) [Данные.](https://yadi.sk/d/EUF_qiKRpHo9cw) Дедлайн: 18:00 29.10.2018
 
 ### Полезные материалы
 Книги:
