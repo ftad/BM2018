@@ -59,6 +59,10 @@ __Занятие 6. EM-алгоритм. Решение задач__
 * [Презентация по задаче с восстановлением фото](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf)
 * [Байесовский метод главных компонент](http://www.machinelearning.ru/wiki/images/7/73/BMMO11_11.pdf)
 
+__Занятие 7. EM-алгоритм. Вариационный вывод__
+* [Конспект с примерами применения](http://www.machinelearning.ru/wiki/images/3/34/Variational_inference.pdf)
+* Теория с пояснениями - 21 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
+
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
 * [Домашнее задание 2](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf). Дедлайн: 18:00 24.09.18. Сдавать в Anytask!
@@ -67,6 +71,8 @@ __Занятие 6. EM-алгоритм. Решение задач__
 
 * [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 29.10.18. Сдавать в Anytask!
 * [Домашнее задание 6.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6.ipynb) [Теория по заданию.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf) [Данные.](https://yadi.sk/d/EUF_qiKRpHo9cw) Дедлайн: 18:00 29.10.2018. Сдавать в Anytask!
+* [Домашнее задание 7.](https://github.com/ftad/BM2018/blob/master/homeworks/homework7.pdf) Дедлайн: 18:00 07.11.2018. Сдавать в Anytask!
+
 
 ### Полезные материалы
 Книги:
