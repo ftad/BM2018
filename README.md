@@ -63,6 +63,11 @@ __Занятие 7. EM-алгоритм. Вариационный вывод__
 * [Конспект с примерами применения](http://www.machinelearning.ru/wiki/images/3/34/Variational_inference.pdf)
 * Теория с пояснениями - 21 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
 
+__Занятие 8. Байесовские нейронные сети__
+* [Презентация по байесовским нейронным сетям](https://drive.google.com/file/d/1yO2IQjYhx1R39ZSOSbJG7V0knwI_X7YC/view?usp=sharing)
+* [Презентация по разреживающему вариационному дропауту](https://drive.google.com/file/d/1ZHy_26SOTpSLrYSfuBDF4khvrYlRmc-U/view?usp=sharing)
+* Статьи: [VarDrop & LRT](https://arxiv.org/pdf/1506.02557.pdf), [ARD for NNs](https://arxiv.org/pdf/1811.00596.pdf), [SparseVD](https://arxiv.org/pdf/1701.05369.pdf), [BinDrop as BayesianNN](https://arxiv.org/pdf/1512.05287.pdf)
+
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
 * [Домашнее задание 2](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf). Дедлайн: 18:00 24.09.18. Сдавать в Anytask!
