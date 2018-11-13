@@ -77,7 +77,7 @@ __Занятие 8. Байесовские нейронные сети__
 * [Домашнее задание 5](https://github.com/ftad/BM2018/blob/master/homeworks/homework5.pdf) Дедлайн: 18:00 29.10.18. Сдавать в Anytask!
 * [Домашнее задание 6.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6.ipynb) [Теория по заданию.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf) [Данные.](https://yadi.sk/d/EUF_qiKRpHo9cw) Дедлайн: 18:00 29.10.2018. Сдавать в Anytask!
 * [Домашнее задание 7.](https://github.com/ftad/BM2018/blob/master/homeworks/homework7.pdf) Дедлайн: 18:00 07.11.2018. Сдавать в Anytask!
-
+* [Домашнее задание 8.](https://github.com/ftad/BM2018/blob/master/homeworks/homework8.ipynb) Дедлайн: 23:59 20.11.2018.
 
 ### Полезные материалы
 Книги:
