@@ -68,6 +68,13 @@ __Занятие 8. Байесовские нейронные сети__
 * [Презентация по разреживающему вариационному дропауту](https://drive.google.com/file/d/1ZHy_26SOTpSLrYSfuBDF4khvrYlRmc-U/view?usp=sharing)
 * Статьи: [VarDrop & LRT](https://arxiv.org/pdf/1506.02557.pdf), [ARD for NNs](https://arxiv.org/pdf/1811.00596.pdf), [SparseVD](https://arxiv.org/pdf/1701.05369.pdf), [BinDrop as BayesianNN](https://arxiv.org/pdf/1512.05287.pdf)
 
+__Занятие 9. Вариационные автокодировщики__
+* [Презентация](https://drive.google.com/file/d/1NqtMy7uMti9Xrsck9WIqvv8o3PWP1jS4/view?usp=sharing)
+
+__Задание 10. Методы Монте-Карло с марковскими цепями__
+* [Конспект](http://www.machinelearning.ru/wiki/images/6/6b/BMMO11_10.pdf)
+* [Подробный туториал на английском](https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf)
+
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
 * [Домашнее задание 2](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf). Дедлайн: 18:00 24.09.18. Сдавать в Anytask!
@@ -78,6 +85,7 @@ __Занятие 8. Байесовские нейронные сети__
 * [Домашнее задание 6.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6.ipynb) [Теория по заданию.](https://github.com/ftad/BM2018/blob/master/homeworks/homework6_theory.pdf) [Данные.](https://yadi.sk/d/EUF_qiKRpHo9cw) Дедлайн: 18:00 29.10.2018. Сдавать в Anytask!
 * [Домашнее задание 7.](https://github.com/ftad/BM2018/blob/master/homeworks/homework7.pdf) Дедлайн: 18:00 07.11.2018. Сдавать в Anytask!
 * [Домашнее задание 8.](https://github.com/ftad/BM2018/blob/master/homeworks/homework8.ipynb) Дедлайн: 23:59 20.11.2018.
+* [Домашнее задание 9.](https://github.com/ftad/BM2018/blob/master/homeworks/homework9.pdf) Дедлайн: 18:00 11.12.18
 
 ### Полезные материалы
 Книги:
