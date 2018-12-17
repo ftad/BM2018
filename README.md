@@ -71,9 +71,15 @@ __Занятие 8. Байесовские нейронные сети__
 __Занятие 9. Вариационные автокодировщики__
 * [Презентация](https://drive.google.com/file/d/1NqtMy7uMti9Xrsck9WIqvv8o3PWP1jS4/view?usp=sharing)
 
-__Задание 10. Методы Монте-Карло с марковскими цепями__
+__Занятие 10. Методы Монте-Карло с марковскими цепями__
 * [Конспект](http://www.machinelearning.ru/wiki/images/6/6b/BMMO11_10.pdf)
 * [Подробный туториал на английском](https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf)
+
+__Занятие 11. Latent Dirichlet Allocation__
+
+__Занятие 12. Гауссовские процессы__
+* [Презентация Е. Бурнаева](https://drive.google.com/file/d/1yhSOkV2TNCSrjbrNMUtYerXXZY1dQpo4/view?usp=sharing)
+* [Презентация М. Филиппоне](https://drive.google.com/file/d/0B2zoFVYw1rN3SDJ0OU1nNVRxVWc/view?usp=sharing)
 
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
@@ -86,6 +92,7 @@ __Задание 10. Методы Монте-Карло с марковским�
 * [Домашнее задание 7.](https://github.com/ftad/BM2018/blob/master/homeworks/homework7.pdf) Дедлайн: 18:00 07.11.2018. Сдавать в Anytask!
 * [Домашнее задание 8.](https://github.com/ftad/BM2018/blob/master/homeworks/homework8.ipynb) Дедлайн: 23:59 20.11.2018.
 * [Домашнее задание 9.](https://github.com/ftad/BM2018/blob/master/homeworks/homework9.pdf) Дедлайн: 18:00 11.12.18
+* [Домашнее задание 10 (опциональное).](https://github.com/ftad/BM2018/blob/master/homeworks/homework10_opt.ipynb) Дедлайн: 23:59 23.12.18
 
 ### Полезные материалы
 Книги:
