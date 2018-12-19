@@ -76,10 +76,19 @@ __Занятие 10. Методы Монте-Карло с марковским�
 * [Подробный туториал на английском](https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf)
 
 __Занятие 11. Latent Dirichlet Allocation__
+* [Конспект лекции Ветрова](http://www.machinelearning.ru/wiki/images/8/82/BMMO11_14.pdf)
+* Теория - 23 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
+* [Про тематическое моделирование](http://www.machinelearning.ru/wiki/index.php?title=%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 
 __Занятие 12. Гауссовские процессы__
 * [Презентация Е. Бурнаева](https://drive.google.com/file/d/1yhSOkV2TNCSrjbrNMUtYerXXZY1dQpo4/view?usp=sharing)
 * [Презентация М. Филиппоне](https://drive.google.com/file/d/0B2zoFVYw1rN3SDJ0OU1nNVRxVWc/view?usp=sharing)
+
+__Занятие 12. State-Space Model. Bayesian Structural Time Series__
+* Теория - 18 chapter, Murphy K.P. Machine Learning: A Probabilistic Perspective.
+* [Видео](https://www.youtube.com/watch?v=GTgZfCltMm8) о CausalImpact от создателя
+* [Статья](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf) о CausalImpact
+* [Библиотека](https://google.github.io/CausalImpact/CausalImpact.html) CausalImpact на R (есть порт на python)
 
 ### Задания
 * [Домашнее задание 1](https://github.com/ftad/BM2018/blob/master/homeworks/homework1.pdf). Дедлайн: 18:00 17.09.18
